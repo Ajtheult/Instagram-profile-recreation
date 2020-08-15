@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  height: 50px;
+}
+
+.move_words_up {
+  margin-top: -5px;
+}
+
+.image_of_self_on_nav {
+  width: 30px;
+  height: 30px;
+  margin-top: 20px;
+}

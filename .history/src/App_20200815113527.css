@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  height: 50px;
+}
+
+.move_words_up {
+  line-height: -3px;
+}

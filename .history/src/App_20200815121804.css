@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  color: black;
+}
+
+nav {
+  height: 50px;
+}
+
+.instagram_nav {
+  font-family: "Lobster", cursive;
+  color: black;
+  margin-left: -20px;
+}
+
+.move_words_up {
+  margin-top: -5px;
+  margin-left: 400px;
+}
+
+.image_of_self_on_nav {
+  width: 30px;
+  height: 30px;
+  margin-top: 15px;
+  border-radius: 50%;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+i {
+  color: black;
+}

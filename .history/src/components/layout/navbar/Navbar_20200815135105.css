@@ -1,0 +1,39 @@
+nav {
+  height: 60px;
+}
+
+.instagram_nav {
+  font-family: "Lobster", cursive;
+  color: black;
+  margin-left: -480px;
+  margin-top: -5px;
+  font-size: 27px;
+}
+
+.move_words_up {
+  margin-top: -5px;
+  margin-left: 500px;
+}
+
+.image_of_self_on_nav {
+  width: 30px;
+  height: 30px;
+  margin-top: 15px;
+  border-radius: 50%;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+i {
+  color: black;
+}
+
+/* Icons on nav */
+
+.home_icon,
+.plane_icon,
+.compass_icon,
+.heart_icon {
+  padding-right: 15px;
+  margin-right: 10px;
+}
