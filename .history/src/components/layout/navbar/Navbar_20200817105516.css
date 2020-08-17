@@ -5,7 +5,7 @@ nav {
 .instagram_nav {
   font-family: "Lobster", cursive;
   color: black;
-  margin-left: -110px;
+  margin-left: -120px;
   margin-top: -2px;
   font-size: 25px;
 }
@@ -17,7 +17,7 @@ nav {
 
 .move_words_up {
   margin-top: 2px;
-  margin-left: 120px;
+  margin-left: 130px;
 }
 
 .image_of_self_on_nav {
@@ -26,7 +26,6 @@ nav {
   margin-top: 11px;
   border-radius: 50%;
   border: 1px solid black;
-  padding: 2px;
 }
 
 i {
