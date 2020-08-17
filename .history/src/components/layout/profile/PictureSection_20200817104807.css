@@ -1,6 +1,6 @@
 .image_of_self {
-  width: 80%;
-  height: 80%;
+  width: 100%;
+  height: 100%;
   margin-top: 15px;
   border-radius: 50%;
   padding: 2px;
@@ -20,7 +20,7 @@
   box-shadow: none;
   border: 1px solid grey;
   border-radius: 5%;
-  width: 90%;
+  width: 80%;
 }
 
 .move_cog {
