@@ -3,7 +3,7 @@ import "./Navbar.css";
 export class Navbar extends Component {
   render() {
     return (
-      <nav class="white insta_navbar">
+      <nav class="white">
         <div>
           <ul class="move_words_up">
             <li class="instagram_nav ">Instagram</li>

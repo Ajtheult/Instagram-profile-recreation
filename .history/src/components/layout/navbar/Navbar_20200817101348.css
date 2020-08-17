@@ -5,9 +5,9 @@ nav {
 .instagram_nav {
   font-family: "Lobster", cursive;
   color: black;
-  margin-left: -120px;
+  margin-left: -100px;
   margin-top: -2px;
-  font-size: 25px;
+  font-size: 27px;
 }
 
 .insta_navbar {
@@ -16,8 +16,9 @@ nav {
 }
 
 .move_words_up {
-  margin-top: 2px;
-  margin-left: 130px;
+  margin-top: -5px;
+  margin-left: 110px;
+  size: 10px;
 }
 
 .image_of_self_on_nav {

@@ -5,25 +5,25 @@ nav {
 .instagram_nav {
   font-family: "Lobster", cursive;
   color: black;
-  margin-left: -120px;
-  margin-top: -2px;
-  font-size: 25px;
+  margin-left: -490px;
+  margin-top: -5px;
+  font-size: 27px;
 }
 
 .insta_navbar {
   box-shadow: none;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid black;
 }
 
 .move_words_up {
-  margin-top: 2px;
-  margin-left: 130px;
+  margin-top: -5px;
+  margin-left: 510px;
 }
 
 .image_of_self_on_nav {
   width: 30px;
   height: 30px;
-  margin-top: 11px;
+  margin-top: 15px;
   border-radius: 50%;
   border: 1px solid black;
   padding: 2px;
@@ -40,5 +40,5 @@ i {
 .compass_icon,
 .heart_icon {
   padding-right: 15px;
-  margin-right: 5px;
+  margin-right: 10px;
 }

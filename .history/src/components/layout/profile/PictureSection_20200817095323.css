@@ -1,0 +1,22 @@
+.image_of_self {
+  width: 150px;
+  height: 150px;
+  margin-top: 15px;
+  border-radius: 50%;
+  padding: 2px;
+}
+
+.user_name {
+  font-family: "Rajdhani", sans-serif;
+  font-size: 40px;
+}
+
+.move_edit_profile_button {
+  margin-top: 20px;
+  pointer-events: none;
+  color: black;
+  font-family: "Alata", sans-serif;
+  box-shadow: none;
+  border: 1px solid grey;
+  border-radius: 10%;
+}
