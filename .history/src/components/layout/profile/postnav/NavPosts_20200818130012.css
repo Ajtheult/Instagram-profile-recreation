@@ -1,0 +1,10 @@
+.move_this_nav {
+  margin-top: -20px;
+  height: 50px;
+}
+
+span {
+  color: grey;
+  shadow: none;
+  border-bottom: 1px grey solid;
+}

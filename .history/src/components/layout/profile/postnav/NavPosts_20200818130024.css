@@ -1,0 +1,9 @@
+.move_this_nav {
+  margin-top: -20px;
+  height: 50px;
+}
+
+span {
+  color: grey;
+  box-shadow: none;
+}

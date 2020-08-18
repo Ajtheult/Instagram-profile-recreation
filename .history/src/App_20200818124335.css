@@ -1,0 +1,12 @@
+* {
+  padding-right: 5px;
+}
+.App {
+  text-align: center;
+  color: black;
+}
+
+body {
+  overflow: unset;
+  box-sizing: border-box;
+}
