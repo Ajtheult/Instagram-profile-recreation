@@ -1,0 +1,13 @@
+.move_from_edge {
+  margin-left: 2%;
+  text-align: left;
+  margin-top: -10px;
+}
+
+.move_list_item {
+  margin-top: 10px;
+}
+
+a {
+  color: blue;
+}

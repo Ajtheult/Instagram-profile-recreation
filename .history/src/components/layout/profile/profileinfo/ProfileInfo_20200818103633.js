@@ -31,8 +31,7 @@ export class ProfileInfo extends Component {
           <li>•YouTube channel:⬇</li>
           <a href="https://www.youtube.com/channel/UCT5Rdz2WqDpsPlt-BA0pVhg">
             <b className="youtube_link">
-              https://www.youtube.com/channel/UCT5Rdz2WqDp <br />
-              sPlt-BA0pVhg <br /> ✅
+              https://www.youtube.com/channel/UCT5Rdz2WqDpsPlt-BA0pVhg ✅
             </b>
           </a>
         </ul>

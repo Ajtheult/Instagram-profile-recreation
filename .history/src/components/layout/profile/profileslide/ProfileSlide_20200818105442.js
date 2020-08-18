@@ -27,7 +27,7 @@ export default class ProfileSlider extends Component {
               alt="img"
               className="images"
             />
-            <p className="move_name_left">name</p>
+            <p>name</p>
           </div>
           <div className="move_images_apart">
             <img

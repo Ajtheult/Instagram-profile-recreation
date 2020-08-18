@@ -29,13 +29,12 @@ export class ProfileInfo extends Component {
             ✏
           </li>
           <li>•YouTube channel:⬇</li>
-          <a href="https://www.youtube.com/channel/UCT5Rdz2WqDpsPlt-BA0pVhg">
-            <b className="youtube_link">
-              https://www.youtube.com/channel/UCT5Rdz2WqDp <br />
-              sPlt-BA0pVhg <br /> ✅
-            </b>
-          </a>
         </ul>
+        <a href="https://www.youtube.com/channel/UCT5Rdz2WqDpsPlt-BA0pVhg">
+          <b className="youtube_link">
+            https://www.youtube.com/channel/UCT5Rdz2WqDpsPlt-BA0pVhg
+          </b>
+        </a>
       </div>
     );
   }

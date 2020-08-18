@@ -14,12 +14,13 @@ export default class ProfileSlider extends Component {
       <div>
         <Slider {...settings}>
           <div className="move_images_apart">
-            <img
-              src="https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
-              alt="img"
-              className="images"
-            />
-            <p className="move_name_left">name</p>
+            <div>
+              <img
+                src="https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
+                alt="img"
+                className="images"
+              />
+            </div>
           </div>
           <div className="move_images_apart">
             <img
@@ -27,7 +28,6 @@ export default class ProfileSlider extends Component {
               alt="img"
               className="images"
             />
-            <p className="move_name_left">name</p>
           </div>
           <div className="move_images_apart">
             <img
@@ -35,7 +35,6 @@ export default class ProfileSlider extends Component {
               alt="img"
               className="images"
             />
-            <p className="move_name_left">name</p>
           </div>
           <div className="move_images_apart">
             <img
@@ -43,7 +42,6 @@ export default class ProfileSlider extends Component {
               alt="img"
               className="images"
             />
-            <p className="move_name_left">name</p>
           </div>
           <div className="move_images_apart">
             <img
@@ -51,7 +49,6 @@ export default class ProfileSlider extends Component {
               alt="img"
               className="images"
             />
-            <p className="move_name_left">name</p>
           </div>
           <div className="move_images_apart">
             <img
@@ -59,7 +56,6 @@ export default class ProfileSlider extends Component {
               alt="img"
               className="images"
             />
-            <p className="move_name_left">name</p>
           </div>
           <div className="move_images_apart">
             <img
@@ -67,7 +63,6 @@ export default class ProfileSlider extends Component {
               alt="img"
               className="images"
             />
-            <p className="move_name_left">name</p>
           </div>
         </Slider>
       </div>

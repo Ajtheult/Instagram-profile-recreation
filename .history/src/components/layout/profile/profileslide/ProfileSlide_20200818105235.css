@@ -1,0 +1,12 @@
+.images {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  padding: 2px;
+  border: 1px solid grey;
+  margin-top: 20px;
+}
+
+.move_images_apart {
+  margin-left: 5px;
+}
