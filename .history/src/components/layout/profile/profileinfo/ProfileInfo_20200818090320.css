@@ -1,0 +1,31 @@
+.move_from_edge {
+  margin-left: 20px;
+  text-align: left;
+  margin-top: -15px;
+}
+
+.move_list_item {
+  text-align: left;
+  margin-top: 10px;
+}
+
+a {
+  color: blue;
+}
+
+/* Slider */
+.images {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  padding: 2px;
+  border: 1px solid grey;
+}
+
+.make_blank {
+  color: white;
+}
+
+.move_images_apart {
+  padding-left: 55px;
+}

@@ -1,0 +1,46 @@
+nav {
+  height: 55px;
+}
+
+.instagram_nav {
+  font-family: "Lobster", cursive;
+  color: black;
+  margin-left: -130px;
+  margin-top: -2px;
+  font-size: 200%;
+}
+
+.insta_navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.move_words_up {
+  margin-top: 2px;
+  margin-left: 35%;
+}
+
+.image_of_self_on_nav {
+  width: 30px;
+  height: 30px;
+  margin-top: 11px;
+  border-radius: 50%;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+i {
+  color: black;
+}
+
+/* Icons on nav */
+
+.home_icon,
+.plane_icon,
+.compass_icon,
+.heart_icon {
+  padding-right: 20px;
+  margin-right: 2%;
+}

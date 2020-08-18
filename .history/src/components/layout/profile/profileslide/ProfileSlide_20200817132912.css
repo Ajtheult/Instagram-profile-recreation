@@ -1,0 +1,7 @@
+.images {
+  width: 50px;
+  max-width: 80px;
+  max-height: 80px;
+  border-radius: 50%;
+  padding: 5px;
+}
