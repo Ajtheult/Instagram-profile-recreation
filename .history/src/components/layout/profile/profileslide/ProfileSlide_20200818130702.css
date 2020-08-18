@@ -6,6 +6,10 @@
   border: 0.5px solid grey;
 }
 
+.move_images_apart {
+  margin-left: 30px;
+}
+
 .move_name_left {
   margin-right: 10px;
   margin-top: 10px;

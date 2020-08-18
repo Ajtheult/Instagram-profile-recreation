@@ -2,8 +2,12 @@
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  padding: 2px;
+
   border: 0.5px solid grey;
+}
+
+.move_images_apart {
+  margin-left: 30px;
 }
 
 .move_name_left {
