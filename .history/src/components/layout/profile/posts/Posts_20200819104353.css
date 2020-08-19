@@ -1,0 +1,13 @@
+.size_of_img {
+  width: 118%;
+  margin-left: -10px;
+  height: 110px;
+}
+
+.row_size {
+  margin: 1%;
+}
+
+.filters {
+  float: left;
+}
