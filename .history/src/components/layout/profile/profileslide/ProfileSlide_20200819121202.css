@@ -7,13 +7,10 @@
 }
 
 .move_name_left {
+  margin-right: 10px;
   margin-top: 10px;
 }
 
 .container {
-  width: 310px;
-}
-
-.slick-arrow {
-  color: black;
+  width: 300px;
 }

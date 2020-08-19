@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  color: black;
+}
+
+body {
+  overflow: unset;
+}
+
+html {
+  border: 8px solid black;
+}

@@ -11,7 +11,7 @@ export default class ProfileSlider extends Component {
       slidesToScroll: 3,
     };
     return (
-      <div className="container">
+      <div cl>
         <Slider {...settings}>
           <div className="move_images_apart">
             <img

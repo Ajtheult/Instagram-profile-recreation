@@ -1,8 +1,8 @@
 .size_of_img {
-  width: 120%;
-  margin-left: -10px;
+  width: 118%;
+
   height: 110px;
-  padding-right: 1px;
+  padding: 2px;
 }
 
 .row_size {

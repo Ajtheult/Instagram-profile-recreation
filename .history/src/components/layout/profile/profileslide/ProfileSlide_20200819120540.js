@@ -5,8 +5,6 @@ import Slider from "react-slick";
 export default class ProfileSlider extends Component {
   render() {
     const settings = {
-      infinite: true,
-      speed: 500,
       slidesToShow: 5,
       slidesToScroll: 3,
     };
