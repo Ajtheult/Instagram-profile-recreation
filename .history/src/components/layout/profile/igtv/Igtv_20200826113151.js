@@ -3,7 +3,7 @@ import "./Igtv.css";
 const Igtv = () => {
   return (
     <div>
-      <h1 className="igtv">no igtv posts</h1>
+      <h1>no igtv posts</h1>
     </div>
   );
 };
